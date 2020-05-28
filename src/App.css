@@ -1,0 +1,11 @@
+.btn-gp {
+  margin-top: 1em;
+}
+
+.number {
+  color: red;
+}
+
+.btn-gp button + button {
+  margin-left: 1em;
+}
