@@ -1,6 +1,6 @@
 // ./store.js
 import { configureStore } from 'redux-starter-kit';
-import rootReducer from './reducer';
+import rootReducer from './reducers';
 
 export default function configureAppStore(preloadedState) {
   const store = configureStore({
